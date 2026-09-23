@@ -1,0 +1,11 @@
+{
+    "zona_rectangular": {
+        "x1": 400,
+        "y1": 500,
+        "x2": 800,
+        "y2": 700
+    },
+    "linea_horizontal": {
+        "y": 450
+    }
+}
